@@ -19,8 +19,8 @@ import (
 	"fmt"
 
 	"github.com/drone/drone/core"
-	"github.com/drone/go-scm/scm"
-	"github.com/drone/go-scm/scm/driver/github"
+	"github.com/pedroparraortega/go-scm/scm"
+	"github.com/pedroparraortega/go-scm/scm/driver/github"
 )
 
 // Config configures the Status service.

@@ -18,7 +18,7 @@ import (
 	"context"
 
 	"github.com/drone/drone/core"
-	"github.com/drone/go-scm/scm"
+	"github.com/pedroparraortega/go-scm/scm"
 )
 
 var _ core.NetrcService = (*Service)(nil)

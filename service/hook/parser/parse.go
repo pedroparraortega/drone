@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/drone/drone/core"
-	"github.com/drone/go-scm/scm"
+	"github.com/pedroparraortega/go-scm/scm"
 )
 
 // TODO(bradrydzewski): stash, push hook missing link

@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/drone/drone/core"
-	"github.com/drone/go-scm/scm"
+	"github.com/pedroparraortega/go-scm/scm"
 )
 
 // default number of backoff attempts.
